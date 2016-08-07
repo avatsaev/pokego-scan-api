@@ -12,7 +12,7 @@ Edit **config.json** with your account credentials
 
 ### Installation
 
-PokeGo Scan API  [Node.js](https://nodejs.org/) v4+ to run.
+PokeGo Scan API requires [Node.js](https://nodejs.org/) v4+ to run.
 
 
 Install the dependencies and start the server.
