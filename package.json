@@ -1,0 +1,14 @@
+{
+  "name": "pokego-scan-api",
+  "version": "1.0.0",
+  "description": "Pokemon Go Map Scan API",
+  "author": "Vatsaev Aslan",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "pokemon-go-node-api": "https://github.com/Armax/Pokemon-GO-node-api.git"
+  }
+}
